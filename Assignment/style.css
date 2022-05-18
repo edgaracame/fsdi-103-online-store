@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.container{
+    border: 2px dashed black;
+    width: 20%;
+    margin: 3rem auto;
+    padding: 3rem;
+}
+
+.container p{
+    font-size: 1.8rem;
+    margin: 1rem;
+}
+
+.container span{
+    font-weight: bold;
+}
+
+.welcome{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.goodbye{
+    text-transform: lowercase;
+    font-style: italic;
+    text-align: center;
+}
+
+.body{
+    margin: 3rem 0;
+}
